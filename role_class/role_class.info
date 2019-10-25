@@ -1,1 +1,4 @@
 name = Role Class
+description = 'Adds user's role to the body as a class'
+core = "7.x"
+version = "7.x-1.0"
